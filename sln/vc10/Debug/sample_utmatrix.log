@@ -1,0 +1,7 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  main.cpp
+C:\Users\black\Desktop\Roma\mp2-lab2-matrix\include\roman.h(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\black\Desktop\Roma\mp2-lab2-matrix\include\roman.h(70,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\black\Desktop\Roma\mp2-lab2-matrix\include\roman.h(74,13): warning C4018: <: несоответствие типов со знаком и без знака
+main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  sample_utmatrix.vcxproj -> C:\Users\black\Desktop\Roma\mp2-lab2-matrix\sln\vc10\Debug\sample_utmatrix.exe
