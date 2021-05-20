@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\black\Desktop\Roma\mp2-lab2-matrix\sln\vc10\Debug\test_utmatrix.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="Roma.can_create_roma" Duration="1" />
+    <TestDuration Test="Roma.can_create_copied_roma" Duration="1" />
+    <TestDuration Test="Roma.can_to_number" Duration="1" />
+    <TestDuration Test="Roma.is_romanian" Duration="1" />
+    <TestDuration Test="Roma.is_not_romanian" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

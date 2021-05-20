@@ -1,0 +1,1 @@
+C:\Users\black\Desktop\Roma\mp2-lab2-matrix\sln\vc10\Debug\gtest.lib
